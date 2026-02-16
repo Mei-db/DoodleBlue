@@ -1,0 +1,10 @@
+[
+  {
+    "fname": "Meiyammai",
+    "lname": "Shanmugam",
+    "id": "101",
+    "salary": "10000"
+  },
+  { "fname": "Bala", "lname": "Subramaniyan", "id": "102", "salary": "15000" },
+  { "fname": "Maneesha", "lname": "Suburayalu", "id": "103", "salary": "20000" }
+]
